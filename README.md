@@ -1,5 +1,6 @@
 Discord: Trappo#4899
-learning: html, css, c#  & c++
+
+Learning: html, css, c#  & c++
 
 <!---
 Trappo4899/Trappo4899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
