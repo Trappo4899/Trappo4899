@@ -1,1 +1,1 @@
-Discord: Trappo#4899
+Discord: purple_aki_
